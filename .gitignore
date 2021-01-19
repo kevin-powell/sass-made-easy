@@ -1,0 +1,5 @@
+# Ignore the node_modules
+node_modules
+
+# Ignore parcel's cache folder
+.cache
